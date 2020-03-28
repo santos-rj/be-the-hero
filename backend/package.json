@@ -1,0 +1,29 @@
+{
+  "name": "semana-omnistack-11.0",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido na Semana OmniStack 11.0 da Rocketseat",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santos-rj/semana-omnistack-11.0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santos-rj/semana-omnistack-11.0/issues"
+  },
+  "homepage": "https://github.com/santos-rj/semana-omnistack-11.0#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "knex": "^0.20.13",
+    "sqlite3": "^4.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
